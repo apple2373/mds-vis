@@ -8,7 +8,8 @@ See [`env.yml`](./env.yml) for the exact environment. As a shortcut, you can use
 Alternatively, you can do
 ```
 export PATH="/data/stsutsui/public/mds-vis/miniconda/bin:$PATH"
-```which 
+```
+
 Make sure that `which python` will give the above python binary.
 
 ### Installing Gist Libraries
