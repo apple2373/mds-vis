@@ -13,7 +13,7 @@ export PATH="/data/stsutsui/public/mds-vis/miniconda/bin:$PATH"
 Make sure that `which python` will give the above python binary.
 
 ### Installing Gist Libraries
-Basically follow the instruction but use the following for configure FFTW
+Basically follow the instruction from https://github.com/tuttieee/lear-gist-python  and use the following for configure FFTW
 ```
 export ROOT="/home/stsutsui/data/public/mds-vis/miniconda/"
 wget http://www.fftw.org/fftw-3.3.8.tar.gz
