@@ -1,7 +1,7 @@
 # MDS vis
 
 ## Environment 
-See [`env.yml`](./env.yml) for the exact environment. As a shortcut, you can use the following python binary as is. 
+See [`env.yml`](./env.yml) for the exact environment. As a shortcut, you can use the following python binary as is if you have access to `salk.psych.indiana.edu`. 
 ```
 /data/stsutsui/public/mds-vis/miniconda/bin/python
 ```
